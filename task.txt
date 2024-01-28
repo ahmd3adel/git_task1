@@ -1,0 +1,6 @@
+git init
+git remote add origin git@github.com:ahmedadel2024/git_task1.git
+touch task.js
+git add .
+git commit -m "First Commit"
+git push origin master
